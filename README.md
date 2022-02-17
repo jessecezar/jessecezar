@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Jessê Cézar
 
 - 💻 Estudanto Html, Css e JavaScript
-- 🌱 Aspirante a Wed Deselvolvedor
-- 😊 Pronomes: ele/dele
+- 🌱 Aspirante a Web Developer
+- 😊 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/jessecezar">
