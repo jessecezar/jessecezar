@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jessê Cézar
 
-- 💻 Estudanto Html, Css e JavaScript
-- 🌱 Aspirante a Web Developer
+- 💻 Estudanto Html, Css, JavaScript, React, React Native, PHP
+- 🌱 Mexendo com tecnologia a de 5 anos
 - 😊 Pronomes: Ele/Dele
 
 <div align="center">
