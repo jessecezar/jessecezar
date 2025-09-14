@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Jessê Cézar
 
-- 💻 Estudanto Html, Css, JavaScript, React, React Native, PHP
-- 🌱 Mexendo com tecnologia a de 5 anos
-- 😊 Pronomes: Ele/Dele
+- 💻 Desenvolvedor Full Stack | Java | HTML | CSS | PHP | MySQL | React
+- 🧑🏽‍💻 Mais de 4 anos na área
 
 <div align="center">
   <a href="https://github.com/jessecezar">
